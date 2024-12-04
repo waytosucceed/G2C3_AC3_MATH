@@ -1,0 +1,58 @@
+[
+    {
+      "questionNo": "Q1",
+      "question": "Mickey the mouse and his friends found mushrooms growing in the first clearing. Skip count by 5s to find out how many mushrooms they found in total.<br><img width='65%' src='./images/34.jpg'/>",
+      "options": [
+        "15",
+        "20",
+        "10",
+        "5"
+      ],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q2",
+      "question": "They discovered acorns in the first part of the forest. Skip count by 5s to find out how many acorns they find in total.<br><img width='65%' src='./images/35.jpg'/>",
+      "options": [
+        "15",
+        "10",
+        "20",
+        "25"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q3",
+      "question": "As Mickey explored, he found colourful flowers in a clearing. Skip count by 5s to find out how many flowers he saw in the clearings.<br><img width='65%' src='./images/36.jpg'/>",
+      "options": [
+        "25",
+        "30",
+        "20",
+        "35"
+      ],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q4",
+      "question": "Mickey and his friends noticed bird nests in trees. Skip count by 5s to discover how many nests they find in total.<br><img width='65%' src='./images/37.jpg'/>",
+      "options": [
+        "20",
+        "30",
+        "25",
+        "35"
+      ],
+      "correct": 3
+    },
+    {
+      "questionNo": "Q5",
+      "question": "Mickey spotted 5 pinecones scattered under each tree. Skip count by 5s to figure out how many pinecones there are in total.<br><img width='65%' src='./images/38.jpg'/>",
+      "options": [
+        "30",
+        "25",
+        "20",
+        "35"
+      ],
+      "correct": 0
+    }
+  ]
+  
